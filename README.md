@@ -1,2 +1,2 @@
 # photopad
-Album Generator
+Album Generator 
